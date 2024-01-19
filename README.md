@@ -1,7 +1,7 @@
 # music-player
 It is a simple web music player which have basic functionalities and responsive.
 
-![image](https://github.com/Subhajitorrin/music_player/assets/109899216/bf6b99af-2b09-4574-a2aa-acd332374de5)
+![Screenshot 2024-01-20 035258](https://github.com/Subhajitorrin/music_player/assets/109899216/1eb71f5b-ae21-417e-8b47-7d5c3cac7e02)
 
 # music player
 
