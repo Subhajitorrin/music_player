@@ -1,0 +1,171 @@
+[{
+  "_id": {
+    "$oid": "65aad597a6234f19990a65b6"
+  },
+  "link": "https://raw.githubusercontent.com/orrin-temp/mp3/main/Chaleya.mp3",
+  "name": "Chaleya",
+  "id": "arijitsingh",
+  "artist": "Arijit Singh"
+},
+{
+  "_id": {
+    "$oid": "65aad5fda6234f19990a65b7"
+  },
+  "link": "https://raw.githubusercontent.com/orrin-temp/mp3/main/Besharam%20Rang.mp3",
+  "name": "Besharam Rang",
+  "id": "arijitsingh",
+  "artist": "Arijit Singh"
+},
+{
+  "_id": {
+    "$oid": "65aaea14a6234f19990a65b8"
+  },
+  "link": "https://raw.githubusercontent.com/orrin-temp/mp3/main/Janiye.mp3",
+  "name": "Janiye",
+  "id": "hindisongs",
+  "artist": "Vishal Mishra"
+},
+{
+  "_id": {
+    "$oid": "65aaeae5a6234f19990a65b9"
+  },
+  "link": "https://raw.githubusercontent.com/orrin-temp/mp3/main/Kho%20Gaye.mp3",
+  "name": "Kho gye",
+  "id": "hindisongs",
+  "artist": "Taaruk Raina"
+},
+{
+  "_id": {
+    "$oid": "65aaeb3ca6234f19990a65bb"
+  },
+  "link": "https://raw.githubusercontent.com/orrin-temp/mp3/main/Pyaar%20Hota%20Kayi%20Baar%20Hai.mp3",
+  "name": "Payar hota kayi baar hai",
+  "id": "arijitsingh",
+  "artist": "Arijit Singh"
+},
+{
+  "_id": {
+    "$oid": "65aaeb6ba6234f19990a65bc"
+  },
+  "link": "https://raw.githubusercontent.com/orrin-temp/mp3/main/Tera%20Zikr.mp3",
+  "name": "Tera zikr",
+  "id": "darshanraval",
+  "artist": "Darshan Raval"
+},
+{
+  "_id": {
+    "$oid": "65aaebc7a6234f19990a65bd"
+  },
+  "link": "https://raw.githubusercontent.com/orrin-temp/mp3/main/Tu%20Aake%20Dekhle.mp3",
+  "name": "Tu ake dekhle",
+  "id": "king",
+  "artist": "King"
+},
+{
+  "_id": {
+    "$oid": "65aaec1ba6234f19990a65be"
+  },
+  "link": "https://raw.githubusercontent.com/orrin-temp/mp3/main/Enna%20sona.mp3",
+  "name": "Enna sona",
+  "id": "arijitsingh",
+  "artist": "Arijit Singh"
+},
+{
+  "_id": {
+    "$oid": "65aaec3ba6234f19990a65bf"
+  },
+  "link": "https://raw.githubusercontent.com/orrin-temp/mp3/main/Khamoshiyan.mp3",
+  "name": "Khamoshiyan",
+  "id": "arijitsingh",
+  "artist": "Arijit Singh"
+},
+{
+  "_id": {
+    "$oid": "65aaec65a6234f19990a65c0"
+  },
+  "link": "https://raw.githubusercontent.com/orrin-temp/mp3/main/Tum%20hi%20ho.mp3",
+  "name": "Tum hi ho",
+  "id": "arijitsingh",
+  "artist": "Arijit Singh"
+},
+{
+  "_id": {
+    "$oid": "65aaec8ea6234f19990a65c1"
+  },
+  "link": "https://raw.githubusercontent.com/orrin-temp/mp3/main/Tum%20sath%20ho.mp3",
+  "name": "Tum sath ho",
+  "id": "arijitsingh",
+  "artist": "Arijit Singh"
+},
+{
+  "_id": {
+    "$oid": "65aaef19a6234f19990a65c2"
+  },
+  "link": "https://raw.githubusercontent.com/orrin-temp/mp3/main/Bahara.mp3",
+  "name": "Bahara",
+  "id": "shreyaghosal",
+  "artist": "Shreya Ghoshal"
+},
+{
+  "_id": {
+    "$oid": "65aaef53a6234f19990a65c3"
+  },
+  "link": "https://raw.githubusercontent.com/orrin-temp/mp3/main/Jhoome%20Jo%20Pathaan.mp3",
+  "name": "Jhoome jo pathan",
+  "id": "arijitsingh",
+  "artist": "Arijit Singh"
+},
+{
+  "_id": {
+    "$oid": "65aaef94a6234f19990a65c4"
+  },
+  "link": "https://raw.githubusercontent.com/orrin-temp/mp3/main/Khuda%20Jaane%20X%20Subhanallah.mp3",
+  "name": "Khuda Jaane Subhanallah",
+  "id": "shilparao",
+  "artist": "Shilpa Rao"
+},
+{
+  "_id": {
+    "$oid": "65aaefd2a6234f19990a65c5"
+  },
+  "link": "https://raw.githubusercontent.com/orrin-temp/mp3/main/Manwa%20Laage.mp3",
+  "name": "Manwa lage",
+  "id": "shreyaghosal",
+  "artist": "Shreya Ghoshal"
+},
+{
+  "_id": {
+    "$oid": "65aaeffaa6234f19990a65c6"
+  },
+  "link": "https://raw.githubusercontent.com/orrin-temp/mp3/main/Mere%20Dholna.mp3",
+  "name": "Mere Dholna",
+  "id": "shreyaghosal",
+  "artist": "Shreya Ghoshal"
+},
+{
+  "_id": {
+    "$oid": "65aaf02ea6234f19990a65c7"
+  },
+  "link": "https://raw.githubusercontent.com/orrin-temp/mp3/main/Maine%20Pi%20Rakhi%20Hai.mp3",
+  "name": "Maine pi rakhi hai",
+  "id": "shreyaghosal",
+  "artist": "Shreya Ghoshal"
+},
+{
+  "_id": {
+    "$oid": "65aaf051a6234f19990a65c8"
+  },
+  "link": "https://raw.githubusercontent.com/orrin-temp/mp3/main/Param%20Sundari.mp3",
+  "name": "Param sundari",
+  "id": "shreyaghosal",
+  "artist": "Shreya Ghoshal"
+},
+{
+  "_id": {
+    "$oid": "65aaf086a6234f19990a65c9"
+  },
+  "link": "https://raw.githubusercontent.com/orrin-temp/mp3/main/Tu%20Jaana%20Na%20Piya.mp3",
+  "name": "Tu jaana na piya",
+  "id": "king",
+  "artist": "King"
+}]

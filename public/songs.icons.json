@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "65a59db28222637463468e08"
+  },
+  "link": "https://raw.githubusercontent.com/orrin-temp/icons/b64c9b1f23d56ab4d6b6daff67fd49023a65789b/icon1.jpeg",
+  "artist": "Arijit Singh",
+  "code": "arijitsingh"
+},
+{
+  "_id": {
+    "$oid": "65a59dbd8222637463468e09"
+  },
+  "link": "https://github.com/orrin-temp/icons/blob/main/icon2.jpeg?raw=true",
+  "artist": "Darshan Raval",
+  "code": "darshanraval"
+},
+{
+  "_id": {
+    "$oid": "65a59dce8222637463468e0a"
+  },
+  "link": "https://github.com/orrin-temp/icons/blob/main/icon3.jpeg?raw=true",
+  "artist": "Hindi Songs",
+  "code": "hindisongs"
+},
+{
+  "_id": {
+    "$oid": "65a59ddf8222637463468e0b"
+  },
+  "link": "https://github.com/orrin-temp/icons/blob/main/icon4.jpeg?raw=true",
+  "artist": "King Songs",
+  "code": "king"
+},
+{
+  "_id": {
+    "$oid": "65a59ded8222637463468e0c"
+  },
+  "link": "https://github.com/orrin-temp/icons/blob/main/icon5.jpeg?raw=true",
+  "artist": "Shilpa Rao",
+  "code": "shilparao"
+},
+{
+  "_id": {
+    "$oid": "65a59df88222637463468e0d"
+  },
+  "link": "https://github.com/orrin-temp/icons/blob/main/icon6.jpeg?raw=true",
+  "artist": "Shreya Ghosal",
+  "code": "shreyaghosal"
+}]
