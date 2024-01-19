@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="style.css">
+    <title>Music Player - ORRIN</title>
+</head>
+
+<body>
+    <!-- container -->
+    <div class="container">
+        <!-- left container -->
+        <div class="left ">
+            <div class="playlist1">
+                <h1>Playlist</h1>
+            </div>
+            <div>
+                <ul class="playlist1">
+                    <li><i class='bx bxs-music p'></i>
+                        <p class="p">Playlist</p>
+                    </li>
+                    <li><i class='bx bx-last-page'></i>
+                        <p>Last Played</p>
+                    </li>
+                    <li><i class='bx bx-trending-up'></i>
+                        <p>Trending</p>
+                    </li>
+                </ul>
+            </div>
+            <i class='bx bx-x x'></i>
+            <div class="currentsongs">
+
+                <!-- <div class="musicard">
+                    <div>
+                        <i class='bx bx-music'></i>
+                        <div class="heading">
+                            <h3>Song name</h3>
+                            <p>Artist</p>
+                        </div>
+                    </div>
+                    <div class="play">
+                        <i class='bx bx-play-circle'></i>
+                    </div>
+                    <a href=""></a>
+                </div> -->
+                <% if(songsList!=0){ %>
+                    <% for(let i=0;i<songsList.length;i++){ %>
+                        <div class="musicard">
+                            <audio>
+                                <source src="<%- songsList[i].link %>" type="audio/mp3">
+                            </audio>
+                            <div>
+                                <i class='bx bx-music'></i>
+                                <div class="heading">
+                                    <h3><%- songsList[i].name %></h3>
+                                    <p><%- songsList[i].artist %></p>
+                                </div>
+                            </div>
+                            <div class="play">
+                                <i class='bx bx-play-circle'></i>
+                            </div>
+                            <a href=""></a>
+                        </div>
+                        <% } %>
+                            <% } %>
+            </div>
+        </div>
+
+        <!-- right  container -->
+        <div class="right">
+            <nav class="nav">
+                <ul class="right-nav">
+                    <li class="Discover">Discover</li>
+                    <li>My Library</li>
+                    <li>Recommended</li>
+                </ul>
+                <div class="utility">
+                    <i class='bx bx-menu menu'></i>
+                    <input type="search" class="search" placeholder="Search your favourite song">
+                    <div class="logo">
+                        <ul>
+                            <li>Login</li>
+                            <li>Sign Up</li>
+                            <li><img src="./logo.png" alt=""></li>
+                            <div class="name">
+                                <p>Made By <a href="https://www.linkedin.com/in/subhajitghosh-orrin/"
+                                        target="_blank">Subhajit Ghosh</a></p>
+                            </div>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+            <div>
+                <h2 class="yourplaylist">Your Playlists</h2>
+            </div>
+            <div class="rightcontainer">
+                <div class="playlists">
+
+                    <!-- <div class="card">
+                        <div class="imgcontainer">
+                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW0PlAvJ4d_SpYcyLbZeya4gKWY-FtLs9h6jhx5LvAeQ&s"
+                                alt="">
+                        </div>
+                        <div>
+                            <h2 class="cardh2">Songs</h2>
+                            <p>Songs for you</p>
+                        </div>
+
+                    </div> -->
+
+                    <% for(let i=0;i<iconsList.length;i++){ %>
+                        <a href="<%- iconsList[i].code %>" class="card cardsanchor">
+                            <div class="imgcontainer ">
+                                <img src="<%- iconsList[i].link %>" alt="">
+                            </div>
+                            <div>
+                                <h2 class="cardh2"><%- iconsList[i].artist %></h2>
+                                <p>Songs for you</p>
+                            </div>
+                        </a>
+                        <% } %>
+
+                </div>
+                <div class="playcard">
+
+                    <div class="controls">
+                        <i class='bx bx-skip-previous'></i>
+                        <div id="play">
+                            <i class='bx bx-play'></i>
+                        </div>
+                        <i class='bx bx-skip-next'></i>
+                    </div>
+                    <div class="range-container">
+                        <input type="range" value="0" class="custom-range" id="myRange">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- <script src="script.js"></script> -->
+    <script src="index.js"></script>
+    <script src="hamburgurMenu.js"></script>
+</body>
+
+</html>
